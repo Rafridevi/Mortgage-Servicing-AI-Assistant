@@ -11,9 +11,6 @@ Build an AI-powered application where a mortgage servicing analyst can ask quest
 # Repository Structure
 
 Mortgage-Servicing-AI-Assistant/
-│
-├── README.md
-│
 ├── datasets/
 │   ├── borrower.csv
 │   ├── loan.csv
